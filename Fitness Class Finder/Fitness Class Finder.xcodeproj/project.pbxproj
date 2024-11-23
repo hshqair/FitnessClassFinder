@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		5BBB46452CC83F7900AEC884 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5BBB46262CC83F7600AEC884 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BBB462D2CC83F7600AEC884;
+			remoteInfo = "Fitness Class Finder";
+		};
+		5BBB464F2CC83F7900AEC884 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5BBB46262CC83F7600AEC884 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BBB462D2CC83F7600AEC884;
+			remoteInfo = "Fitness Class Finder";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5BBB462E2CC83F7600AEC884 /* Fitness Class Finder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fitness Class Finder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BBB46442CC83F7900AEC884 /* Fitness Class FinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fitness Class FinderTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BBB464E2CC83F7900AEC884 /* Fitness Class FinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fitness Class FinderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5BBB46562CC83F7900AEC884 /* Exceptions for "Fitness Class Finder" folder in "Fitness Class Finder" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 5BBB462D2CC83F7600AEC884 /* Fitness Class Finder */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5BBB46302CC83F7600AEC884 /* Fitness Class Finder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5BBB46562CC83F7900AEC884 /* Exceptions for "Fitness Class Finder" folder in "Fitness Class Finder" target */,
+			);
+			path = "Fitness Class Finder";
+			sourceTree = "<group>";
+		};
+		5BBB46472CC83F7900AEC884 /* Fitness Class FinderTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Fitness Class FinderTests";
+			sourceTree = "<group>";
+		};
+		5BBB46512CC83F7900AEC884 /* Fitness Class FinderUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Fitness Class FinderUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5BBB462B2CC83F7600AEC884 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BBB46412CC83F7900AEC884 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BBB464B2CC83F7900AEC884 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5BBB46252CC83F7600AEC884 = {
+			isa = PBXGroup;
+			children = (
+				5BBB46302CC83F7600AEC884 /* Fitness Class Finder */,
+				5BBB46472CC83F7900AEC884 /* Fitness Class FinderTests */,
+				5BBB46512CC83F7900AEC884 /* Fitness Class FinderUITests */,
+				5BBB462F2CC83F7600AEC884 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5BBB462F2CC83F7600AEC884 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5BBB462E2CC83F7600AEC884 /* Fitness Class Finder.app */,
+				5BBB46442CC83F7900AEC884 /* Fitness Class FinderTests.xctest */,
+				5BBB464E2CC83F7900AEC884 /* Fitness Class FinderUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5BBB462D2CC83F7600AEC884 /* Fitness Class Finder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5BBB46572CC83F7900AEC884 /* Build configuration list for PBXNativeTarget "Fitness Class Finder" */;
+			buildPhases = (
+				5BBB462A2CC83F7600AEC884 /* Sources */,
+				5BBB462B2CC83F7600AEC884 /* Frameworks */,
+				5BBB462C2CC83F7600AEC884 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5BBB46302CC83F7600AEC884 /* Fitness Class Finder */,
+			);
+			name = "Fitness Class Finder";
+			packageProductDependencies = (
+			);
+			productName = "Fitness Class Finder";
+			productReference = 5BBB462E2CC83F7600AEC884 /* Fitness Class Finder.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5BBB46432CC83F7900AEC884 /* Fitness Class FinderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5BBB465C2CC83F7900AEC884 /* Build configuration list for PBXNativeTarget "Fitness Class FinderTests" */;
+			buildPhases = (
+				5BBB46402CC83F7900AEC884 /* Sources */,
+				5BBB46412CC83F7900AEC884 /* Frameworks */,
+				5BBB46422CC83F7900AEC884 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5BBB46462CC83F7900AEC884 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5BBB46472CC83F7900AEC884 /* Fitness Class FinderTests */,
+			);
+			name = "Fitness Class FinderTests";
+			packageProductDependencies = (
+			);
+			productName = "Fitness Class FinderTests";
+			productReference = 5BBB46442CC83F7900AEC884 /* Fitness Class FinderTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5BBB464D2CC83F7900AEC884 /* Fitness Class FinderUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5BBB465F2CC83F7900AEC884 /* Build configuration list for PBXNativeTarget "Fitness Class FinderUITests" */;
+			buildPhases = (
+				5BBB464A2CC83F7900AEC884 /* Sources */,
+				5BBB464B2CC83F7900AEC884 /* Frameworks */,
+				5BBB464C2CC83F7900AEC884 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5BBB46502CC83F7900AEC884 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5BBB46512CC83F7900AEC884 /* Fitness Class FinderUITests */,
+			);
+			name = "Fitness Class FinderUITests";
+			packageProductDependencies = (
+			);
+			productName = "Fitness Class FinderUITests";
+			productReference = 5BBB464E2CC83F7900AEC884 /* Fitness Class FinderUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5BBB46262CC83F7600AEC884 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					5BBB462D2CC83F7600AEC884 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					5BBB46432CC83F7900AEC884 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 5BBB462D2CC83F7600AEC884;
+					};
+					5BBB464D2CC83F7900AEC884 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 5BBB462D2CC83F7600AEC884;
+					};
+				};
+			};
+			buildConfigurationList = 5BBB46292CC83F7600AEC884 /* Build configuration list for PBXProject "Fitness Class Finder" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5BBB46252CC83F7600AEC884;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 5BBB462F2CC83F7600AEC884 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5BBB462D2CC83F7600AEC884 /* Fitness Class Finder */,
+				5BBB46432CC83F7900AEC884 /* Fitness Class FinderTests */,
+				5BBB464D2CC83F7900AEC884 /* Fitness Class FinderUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5BBB462C2CC83F7600AEC884 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BBB46422CC83F7900AEC884 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BBB464C2CC83F7900AEC884 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5BBB462A2CC83F7600AEC884 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BBB46402CC83F7900AEC884 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BBB464A2CC83F7900AEC884 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5BBB46462CC83F7900AEC884 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5BBB462D2CC83F7600AEC884 /* Fitness Class Finder */;
+			targetProxy = 5BBB46452CC83F7900AEC884 /* PBXContainerItemProxy */;
+		};
+		5BBB46502CC83F7900AEC884 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5BBB462D2CC83F7600AEC884 /* Fitness Class Finder */;
+			targetProxy = 5BBB464F2CC83F7900AEC884 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5BBB46582CC83F7900AEC884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Fitness Class Finder/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "gmu.edu.Fitness-Class-Finder";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5BBB46592CC83F7900AEC884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Fitness Class Finder/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "gmu.edu.Fitness-Class-Finder";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		5BBB465A2CC83F7900AEC884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5BBB465B2CC83F7900AEC884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5BBB465D2CC83F7900AEC884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "gmu.edu.Fitness-Class-FinderTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fitness Class Finder.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Fitness Class Finder";
+			};
+			name = Debug;
+		};
+		5BBB465E2CC83F7900AEC884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "gmu.edu.Fitness-Class-FinderTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fitness Class Finder.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Fitness Class Finder";
+			};
+			name = Release;
+		};
+		5BBB46602CC83F7900AEC884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "gmu.edu.Fitness-Class-FinderUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Fitness Class Finder";
+			};
+			name = Debug;
+		};
+		5BBB46612CC83F7900AEC884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "gmu.edu.Fitness-Class-FinderUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Fitness Class Finder";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5BBB46292CC83F7600AEC884 /* Build configuration list for PBXProject "Fitness Class Finder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BBB465A2CC83F7900AEC884 /* Debug */,
+				5BBB465B2CC83F7900AEC884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5BBB46572CC83F7900AEC884 /* Build configuration list for PBXNativeTarget "Fitness Class Finder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BBB46582CC83F7900AEC884 /* Debug */,
+				5BBB46592CC83F7900AEC884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5BBB465C2CC83F7900AEC884 /* Build configuration list for PBXNativeTarget "Fitness Class FinderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BBB465D2CC83F7900AEC884 /* Debug */,
+				5BBB465E2CC83F7900AEC884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5BBB465F2CC83F7900AEC884 /* Build configuration list for PBXNativeTarget "Fitness Class FinderUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BBB46602CC83F7900AEC884 /* Debug */,
+				5BBB46612CC83F7900AEC884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5BBB46262CC83F7600AEC884 /* Project object */;
+}
