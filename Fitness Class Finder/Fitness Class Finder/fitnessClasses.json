@@ -59,7 +59,33 @@
             "ClassWebSite": "https://classpass.com/studios/hour-cycle-studio-richmond?reviewsPage=9",
             "Mood": "High energy vibes ⚡️",
             "Rating": "4.2"
+        },
+        {
+            "ClassName": "XPF Studio",
+            "ClassDescription": "XPF is an artful diagnostic conditioning system that elevates your physical and mental performance.",
+            "ClassLength": "60 minutes",
+            "ClassLocation": "Baltimore, MD",
+            "Classtypename": "XPF Studio",
+            "ClassIntensity": "High",
+            "ClassImage": "XPFStudio.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/xpf-studio-baltimore",
+            "Mood": "Adrenaline-fueled intensity 💥",
+            "Rating": "3.3"
+        },
+        {
+            "ClassName": "ROAM Fitness",
+            "ClassDescription": "XPF is an artful diagnostic conditioning system that elevates your physical and mental performance.",
+            "ClassLength": "60 to 120 minutes",
+            "ClassLocation": "Baltimore, MD",
+            "Classtypename": "fully-equipped gym",
+            "ClassIntensity": "Low",
+            "ClassImage": "ROAM.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/roam-fitness-baltimore",
+            "Mood": "Electrifying atmosphere 🔋",
+            "Rating": "3.9"
         }
+        
+        
     ],
     Status: "OK"
 }
