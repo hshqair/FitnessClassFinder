@@ -1,0 +1,64 @@
+{
+    "fitnessClasses": [
+        {
+            "ClassName": "Pilates House",
+            "ClassDescription": "At Pilates House, our studio is built on a boutique model of reformer and infrared mat pilates training. Therefore, our Reformer and Hot classes have uniquely been designed to complement each other, thus providing an enhanced cross-training experience for the individual.",
+            "ClassLength": "60 minutes",
+            "ClassLocation": "Baltimore, MD",
+            "Classtypename": "Pilates Studio",
+            "ClassIntensity": "Low",
+            "ClassImage": "Pilates.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/pilates-house-baltimore",
+            "Mood": "Core power time 💪",
+            "Rating": "4.8"
+        },
+        {
+            "ClassName": "Zoom Cville",
+            "ClassDescription": "Zoom Charlottesville is the only boutique fitness studio in the area offering cardio, sculpt-barre, and strength training-and boxing-all under one roof.",
+            "ClassLength": "45 minutes",
+            "ClassLocation": "Charlottesville, VA",
+            "Classtypename": "Cycle Studio",
+            "ClassIntensity": "High",
+            "ClassImage": "ZoomCville.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/zoom-cville-charlottesville",
+            "Mood": "Ready to crush it! 🔥",
+            "Rating": "4.2"
+        },
+        {
+            "ClassName": "F45 Training",
+            "ClassDescription": "F45 Training is a revolutionary training system that blends high-intensity interval training with technology to provide an unparalleled cardiovascular workout in just 45 minutes. The purpose of workouts is to allow people to work out more than once a week.",
+            "ClassLength": "45 minutes",
+            "ClassLocation": "Richmond, VA",
+            "Classtypename": "Revolutionary fitness",
+            "ClassIntensity": "High",
+            "ClassImage": "F45Training.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/f45-training--fan-district-va-richmond",
+            "Mood": "Time to sweat it out! 💦",
+            "Rating": "3.8"
+        },
+        {
+            "ClassName": "Humble Haven Yoga",
+            "ClassDescription": "Humble Haven Yoga is the first Hot Power yoga studio in Richmond. Humble Haven now offers well over 60 classes per week in both heated and unheated studio spaces.",
+            "ClassLength": "60 minutes",
+            "ClassLocation": "Richmond, VA",
+            "Classtypename": "Hot Power yoga studio",
+            "ClassIntensity": "Medium",
+            "ClassImage": "HumbleHavenYoga.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/humble-haven-yoga-glenside-richmond?reviewsPage=6",
+            "Mood": "Balanced workout 🧘‍♀️",
+            "Rating": "4.5"
+        },
+        {
+            "ClassName": "Hour Cycle Studio",
+            "ClassDescription": "Hour Cycle gives the indoor cycling experience a dope (AF) twist. They turn down the main lights for their 45 or 60 minute studio sessions and turn up the music, including Hip-hop, Trap, Crunk, Reggae, Soca, Afrobeat, and Ride.",
+            "ClassLength": "45 or 60 minutes",
+            "ClassLocation": "Richmond, VA",
+            "Classtypename": "Cycle Studio",
+            "ClassIntensity": "High",
+            "ClassImage": "cycleClass.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/hour-cycle-studio-richmond?reviewsPage=9",
+            "Mood": "High energy vibes ⚡️",
+            "Rating": "4.2"
+        }
+    ]
+}
